@@ -1,4 +1,4 @@
 # TechModule
 Exersises from the Tech Module
 
-attempting
+Today we attempt to break thingssss
